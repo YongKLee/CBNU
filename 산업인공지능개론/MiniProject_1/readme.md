@@ -9,3 +9,5 @@
     
 2. 분석법
 <img src="https://user-images.githubusercontent.com/77335485/201522658-042d5bcc-bcba-4a3b-b39d-7998d2171231.png" width="500"> 
+
+3. 규칙

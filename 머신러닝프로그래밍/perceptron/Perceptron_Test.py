@@ -1,5 +1,5 @@
 
-ort numpy as np
+import numpy as np
 
 def OR_gate(x1, x2):
     w1 = 1

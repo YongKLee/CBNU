@@ -12,10 +12,10 @@
 - **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
 
 ## Educational Course
-
+○ 교과목 이수 현황
 <p align="center">
 
-<img src="./images/EdCoourse.JPG"  width="640" height="300">
+<img src="https://user-images.githubusercontent.com/77335485/201522146-8b4adba4-325f-4900-88c4-a7d4284c481c.png"  width="640" height="300">
 
 </p>
 </br>

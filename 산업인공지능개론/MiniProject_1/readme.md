@@ -8,7 +8,7 @@
     제조 현장에서 사용되는 관리도는 XBar-R,  XBar-S, I-MR, np, p, c, u 관리도로 한정함.
     
 2. 분석법
-<img src="https://user-images.githubusercontent.com/77335485/201522658-042d5bcc-bcba-4a3b-b39d-7998d2171231.png" width="500"> 
+    <img src="https://user-images.githubusercontent.com/77335485/201522658-042d5bcc-bcba-4a3b-b39d-7998d2171231.png" width="800"> 
 
 3. 규칙
-<img src="https://user-images.githubusercontent.com/77335485/201522768-2c743163-8cd2-467b-b1de-18536c2caae8.png" width="500"> 
+    <img src="https://user-images.githubusercontent.com/77335485/201522768-2c743163-8cd2-467b-b1de-18536c2caae8.png" width="800"> 

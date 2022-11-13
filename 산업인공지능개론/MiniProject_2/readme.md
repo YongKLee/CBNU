@@ -13,8 +13,8 @@
       시간, 각 core 온도, 각 core의 온도, 각 core의 Speed, 각 core의 Power
       
    2) Data Sample(CPU Core 0의 온도, 부하)
-     <img src="https://user-images.githubusercontent.com/77335485/201523383-ae42ba14-4ed8-4899-9518-3cc14acd90ba.png"  width="640" height="300">
+ <img src="https://user-images.githubusercontent.com/77335485/201523383-ae42ba14-4ed8-4899-9518-3cc14acd90ba.png"  width="640" height="300">
      
 3. Sample Data Chart
    - Monitoring Tool에서 취득한 Data
-     <img src="https://user-images.githubusercontent.com/77335485/201523472-e52231ef-ccc9-4169-a338-5a378d33d2b6.png"  width="640" height="300">
+ <img src="https://user-images.githubusercontent.com/77335485/201523472-e52231ef-ccc9-4169-a338-5a378d33d2b6.png"  width="640" height="300">

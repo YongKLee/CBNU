@@ -14,3 +14,8 @@
 3. 규칙
 
 <img src="https://user-images.githubusercontent.com/77335485/201522768-2c743163-8cd2-467b-b1de-18536c2caae8.png" width="800"> 
+
+4. code 및 결과
+
+<img src="https://user-images.githubusercontent.com/77335485/201522928-4a9e35e8-631d-43ba-b96f-667abbbd8537.png" width="800"> 
+

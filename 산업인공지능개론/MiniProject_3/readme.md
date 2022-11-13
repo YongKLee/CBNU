@@ -12,9 +12,9 @@
      
  2. 학습 영상 예시
  
- <img src="https://user-images.githubusercontent.com/77335485/201525244-211465f4-3501-490b-8ada-677baaff028c.png"  width="640" height="300">
+ <img src="https://user-images.githubusercontent.com/77335485/201525244-211465f4-3501-490b-8ada-677baaff028c.png"  width="800">
  
 
 3. 학습 결과
 
-<img src="https://user-images.githubusercontent.com/77335485/201525501-28354538-bcd0-4689-884a-a4f23f91f4e7.png"  width="640" height="300">
+<img src="https://user-images.githubusercontent.com/77335485/201525501-28354538-bcd0-4689-884a-a4f23f91f4e7.png"  width="800">

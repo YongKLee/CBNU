@@ -15,7 +15,7 @@
 ○ 교과목 이수 현황
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/77335485/201522146-8b4adba4-325f-4900-88c4-a7d4284c481c.png"  width="640" height="300">
+<img src="https://user-images.githubusercontent.com/77335485/201654802-13a8abb7-ddb6-4c2d-bdc0-19f3d1fea100.png"  width="640" height="300">
 
 </p>
 </br>
